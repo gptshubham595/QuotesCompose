@@ -59,6 +59,7 @@ dependencies {
     implementation(libs.androidx.compiler)
     implementation(libs.androidx.runtime)
     implementation(libs.androidx.constraintlayout.compose)
+    implementation(libs.compose.foundataion)
     implementation(libs.androidx.material.icons.extended)
 
 }
